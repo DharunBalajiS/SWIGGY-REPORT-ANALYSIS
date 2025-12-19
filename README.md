@@ -4,4 +4,5 @@ Swiggy Report Analysis project using Power BI and Excel. Analyzed sales, orders,
 
 Swiggy Customer & Performance Analysis 
 
-This project analyzes Swiggy sales data to understand customer behavior and restaurant performance using SQL, Excel, and Power BI. It includes data cleaning, KPI creation, and interactive dashboards to uncover trends, top restaurants, and ordering patterns for data-driven insights.
+This project analyzes Swiggy sales data to understand customer behavior and restaurant performance using 
+Excel, and Power BI. It includes data cleaning, KPI creation, and interactive dashboards to uncover trends, top restaurants, and ordering patterns for data-driven insights.
